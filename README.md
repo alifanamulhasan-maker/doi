@@ -1,3 +1,3 @@
-# Bangla2GermanDuolingoLite
+# Bangla2GermanDuolingoLite-ready
 
-Generated project structure.
+Generated project structure with Gradle Wrapper and GitHub Actions.
